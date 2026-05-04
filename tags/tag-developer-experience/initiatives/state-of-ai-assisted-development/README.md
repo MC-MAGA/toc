@@ -20,6 +20,20 @@ By bridging the gap between isolated experimentation and collective intelligence
 * Data-Driven Analysis Report: Publication of a public report that synthesizes the survey findings. This document will identify the top 5–10 tools currently in use, map common workflow patterns, and provide a measurable assessment of perceived benefits and security challenges.
 * Vendor-Neutral Reference Guide The final deliverable is an actionable handbook for maintainers. Based on the analysis, this guide will provide concrete recommendations on security, productivity, and edge-case management, offering a standard set of best practices for integrating AI tools into cloud native project workflows.
 
-## Tracking document for meeting and progress
+## Join the initiative
 
-https://notes.cncf.io/s/wCOGYaJcw#
+- We have a bi-weekly meeting on Friday 4 PM (CEST). You can find it and join the meeting on the [CNCF Calendar](https://www.cncf.io/calendar/) searching for the TAG Developer Experience project calendar.
+    - The meeting agenda is here: https://docs.google.com/document/d/1my8iAme4x-hfFAPfFI2pb23ZmpM_n_5a_jGOo6SYrSk/edit?tab=t.0#heading=h.b5afxvv7o4cn
+- Join our slack channel `#initiative-state-of-ai-assisted-development`
+
+## Deliverables
+
+- [ ] **Initial Survey**: https://forms.gle/wCqi5xyBMEjgt5Aj7
+    - Opening: 25/03/2026
+    - Closing: 18/05/2026
+- [X] **Blog Post**: https://www.cncf.io/blog/2026/04/29/the-state-of-ai-in-cncf-projects-a-first-look-at-the-data/
+    - Blog post to push the survey and reach more contributors/maintainers and give visibility to the first data we collected.
+- [ ] **Survey Raw Data**:
+- [ ] **Interviews schedule and notes**:
+- [ ] **Whitepaper**:
+- [ ] **Events sessions**:
