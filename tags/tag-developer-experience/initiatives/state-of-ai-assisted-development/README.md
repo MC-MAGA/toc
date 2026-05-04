@@ -22,7 +22,7 @@ By bridging the gap between isolated experimentation and collective intelligence
 
 ## Join the initiative
 
-- We have a bi-weekly meeting on Friday 4 PM (CEST). You can find it and join the meeting on the [CNCF Calendar](https://www.cncf.io/calendar/) searching for the TAG Developer Experience project calendar.
+- We have a bi-weekly meeting on Friday 4 PM (CEST). You can find and join the meeting via the CNCF Calendar by searching for the TAG Developer Experience project calendar.
     - The meeting agenda is here: https://docs.google.com/document/d/1my8iAme4x-hfFAPfFI2pb23ZmpM_n_5a_jGOo6SYrSk/edit?tab=t.0#heading=h.b5afxvv7o4cn
 - Join our slack channel `#initiative-state-of-ai-assisted-development`
 
@@ -32,8 +32,8 @@ By bridging the gap between isolated experimentation and collective intelligence
     - Opening: 25/03/2026
     - Closing: 18/05/2026
 - [X] **Blog Post**: https://www.cncf.io/blog/2026/04/29/the-state-of-ai-in-cncf-projects-a-first-look-at-the-data/
-    - Blog post to push the survey and reach more contributors/maintainers and give visibility to the first data we collected.
+    - A blog post to promote the survey, reach more contributors and maintainers, and provide visibility into our initial data collection.
 - [ ] **Survey Raw Data**:
-- [ ] **Interviews schedule and notes**:
+- [ ] **nterview Schedule and Notes**:
 - [ ] **Whitepaper**:
 - [ ] **Events sessions**:
