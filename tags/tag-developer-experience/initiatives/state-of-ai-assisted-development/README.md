@@ -34,6 +34,6 @@ By bridging the gap between isolated experimentation and collective intelligence
 - [X] **Blog Post**: https://www.cncf.io/blog/2026/04/29/the-state-of-ai-in-cncf-projects-a-first-look-at-the-data/
     - A blog post to promote the survey, reach more contributors and maintainers, and provide visibility into our initial data collection.
 - [ ] **Survey Raw Data**:
-- [ ] **nterview Schedule and Notes**:
+- [ ] **Interview Schedule and Notes**:
 - [ ] **Whitepaper**:
 - [ ] **Events sessions**:
